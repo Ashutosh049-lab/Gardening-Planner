@@ -19,7 +19,7 @@ export default function SignupForm({ onSwitchToLogin }) {
             toast.success('Account created successfully!');
         }
         catch (error) {
-            toast.error('Failed to create account. Please try again.');
+            toast.error('Failed to create account. Please try again.', error);
         }
         finally {
             setIsLoading(false);
