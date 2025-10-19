@@ -22,5 +22,5 @@ An innovative web application to help gardeners manage plant health, schedule ca
 [Gardening Planner Live](https://resilient-crumble-346567.netlify.app/)
 
 ## Contact
-- Email: ashutoshjaiswal264@gmail.com
+- Email: jashutosh528@gmail.com
 - Portfolio: [ashutosh-portfolio-049.netlify.app](https://ashutosh-portfolio-049.netlify.app/)
