@@ -68,9 +68,13 @@ gardening-planner/
 Optimizations
 ```
 Performance: Optimized images, lazy-loaded components, and minimized CSS/JS bundles
+
 Responsive Design: Mobile-first layout for tablets and smartphones
+
 Code Quality: Modular components, reusable utilities, and clean folder structure
+
 UI/UX: Interactive drag-and-drop garden planner, smooth transitions, and responsive feedback
+
 Error Handling: Clean error states with alerts and notifications
 ```
 ---
